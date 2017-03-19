@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">antony</string>
+    <string name="nvidia">NVIDIA</string>
+    <string name="address">Address:</string>
+    <string name="con">9840364473</string>
+    <string name="email">info@nvidia.com</string>
+    <string name="contact">Contact:</string>
+    <string name="add">2701 San Tomas Expressway, &#xA;Santa Clara, CA 95050</string>
+</resources>
